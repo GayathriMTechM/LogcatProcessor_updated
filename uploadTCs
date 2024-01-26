@@ -1,0 +1,9 @@
+from data_processor_main import main
+
+# get_iTMSdata.get_data(env, tclist)
+tcList = ['TC2971498']
+env = 'R&D'  # R&D or Production
+info = {'env': env}
+
+
+main(tcList, info)

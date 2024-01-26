@@ -1,0 +1,152 @@
+12-01 07:16:11.623  30266  30266 I DoubleTapBootReceiver: doubleTapExeccommand  mUpdateDoubleTap = pass
+12-01 07:16:11.624  30266  30266 I DoubleTapBootReceiver: Boost mode disabled
+12-01 07:16:11.648  737  737 I sensors-hal: flush:260, android.sensor.gravity/91
+12-01 07:16:11.649  737  737 I sensors-hal: flush:268, android.sensor.gravity/91 completed
+12-01 07:16:11.651  737  737 I sensors-hal: flush:260, android.sensor.linear_acceleration/101
+12-01 07:16:11.652  737  737 I sensors-hal: flush:268, android.sensor.linear_acceleration/101 completed
+12-01 07:16:11.652  737  737 I sensors-hal: flush:260, android.sensor.gyroscope_uncalibrated/161
+12-01 07:16:11.652  737  737 I sensors-hal: flush:268, android.sensor.gyroscope_uncalibrated/161 completed
+12-01 07:16:11.653  19681  23686 W igation.testap: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+12-01 07:16:11.661  19681  23694 W igation.testap: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+12-01 07:16:11.661  19681  23694 W igation.testap: Accessing hidden method Lsun/misc/Unsafe;->putLong(Ljava/lang/Object;JJ)V (greylist, linking, allowed)
+12-01 07:16:11.661  19681  23694 W igation.testap: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+12-01 07:16:11.661  19681  23694 W igation.testap: Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+12-01 07:16:11.661  19681  23694 W igation.testap: Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+12-01 07:16:11.680  4808  4808 E STFService: run1: 3.2.8
+12-01 07:16:11.695  4808  4808 I STFService: sendNetworkClass:  CellSignalLte:{alphaLong=Vi India, rssi=-87, mnc=7, level=1, bandwidth=2147483647, ci=8791859, asulevel=17, parametersUseForLevel=-123, rsrp=-123, rssnr=2147483647, bands=[], mcc=404, ta=26, mAdditionalPlmns=unknown, sinr=2147483647, csgInfo=unknown, rsrq=-17, pci=185, tac=24875, alphaShort=Vi India, cqi=2147483647, earfcn=41140}
+12-01 07:16:11.696  4808  4808 I STFService: sendNetworkClass:  CellSignalLte:{alphaLong=, rssi=-97, mnc=2147483647, level=1, bandwidth=2147483647, ci=2147483647, asulevel=14, parametersUseForLevel=-126, rsrp=-126, rssnr=2147483647, bands=[], mcc=2147483647, ta=2147483647, mAdditionalPlmns=unknown, sinr=2147483647, csgInfo=unknown, rsrq=-17, pci=215, tac=2147483647, alphaShort=, cqi=2147483647, earfcn=41140}
+12-01 07:16:11.697  4808  4808 I STFService: sendNetworkClass:  CellSignalLte:{alphaLong=, rssi=-97, mnc=2147483647, level=1, bandwidth=2147483647, ci=2147483647, asulevel=17, parametersUseForLevel=-123, rsrp=-123, rssnr=2147483647, bands=[], mcc=2147483647, ta=2147483647, mAdditionalPlmns=unknown, sinr=2147483647, csgInfo=unknown, rsrq=-15, pci=192, tac=2147483647, alphaShort=, cqi=2147483647, earfcn=515}
+12-01 07:16:11.698  4808  4808 I STFService: sendNetworkClass:  CellSignalLte:{alphaLong=, rssi=-95, mnc=2147483647, level=1, bandwidth=2147483647, ci=2147483647, asulevel=15, parametersUseForLevel=-125, rsrp=-125, rssnr=2147483647, bands=[], mcc=2147483647, ta=2147483647, mAdditionalPlmns=unknown, sinr=2147483647, csgInfo=unknown, rsrq=-18, pci=43, tac=2147483647, alphaShort=, cqi=2147483647, earfcn=515}
+12-01 07:16:11.698  30266  30266 I DoubleTapBootReceiver: doubleTapExeccommand  mUpdateDoubleTap = pass
+12-01 07:16:11.699  30266  30266 I DoubleTapBootReceiver: Boost mode disabled
+12-01 07:16:11.699  4808  4808 I STFService: sendNetworkClass:  CellSignalLte:{alphaLong=, rssi=-97, mnc=2147483647, level=1, bandwidth=2147483647, ci=2147483647, asulevel=17, parametersUseForLevel=-123, rsrp=-123, rssnr=2147483647, bands=[], mcc=2147483647, ta=2147483647, mAdditionalPlmns=unknown, sinr=2147483647, csgInfo=unknown, rsrq=-16, pci=194, tac=2147483647, alphaShort=, cqi=2147483647, earfcn=515}
+12-01 07:16:11.700  4808  4808 I STFService: sendNetworkClass:  CellSignalLte:{alphaLong=, rssi=-89, mnc=2147483647, level=2, bandwidth=2147483647, ci=2147483647, asulevel=25, parametersUseForLevel=-115, rsrp=-115, rssnr=2147483647, bands=[], mcc=2147483647, ta=2147483647, mAdditionalPlmns=unknown, sinr=2147483647, csgInfo=unknown, rsrq=-14, pci=194, tac=2147483647, alphaShort=, cqi=2147483647, earfcn=1565}
+12-01 07:16:11.700  4808  4808 I STFService: sendNetworkClass:  CellSignalLte:{alphaLong=, rssi=-89, mnc=2147483647, level=2, bandwidth=2147483647, ci=2147483647, asulevel=22, parametersUseForLevel=-118, rsrp=-118, rssnr=2147483647, bands=[], mcc=2147483647, ta=2147483647, mAdditionalPlmns=unknown, sinr=2147483647, csgInfo=unknown, rsrq=-17, pci=192, tac=2147483647, alphaShort=, cqi=2147483647, earfcn=1565}
+12-01 07:16:11.701  4808  4808 I STFService: sendNetworkClass:  CellSignalLte:{alphaLong=, rssi=-91, mnc=2147483647, level=2, bandwidth=2147483647, ci=2147483647, asulevel=22, parametersUseForLevel=-118, rsrp=-118, rssnr=2147483647, bands=[], mcc=2147483647, ta=2147483647, mAdditionalPlmns=unknown, sinr=2147483647, csgInfo=unknown, rsrq=-17, pci=52, tac=2147483647, alphaShort=, cqi=2147483647, earfcn=1565}
+12-01 07:16:11.705  4808  4808 I STFService: sendNetworkClass:  EPDGInfo:{dns_server_4=2001:4860:4860::6464, ip_address_1=10.41.105.46, dns_server_3=2402:3a80:1fff:40::4, ip_address_2=2402:8100:25d9:65c0:ed4e:44d8:6ea2:1a75, dns_server_2=8.8.8.8, dns_server_1=10.95.11.110, max_downstream_bandwidth=30000, is_secure=true, tunneling_protocol=rmnet_data1, max_upstream_bandwidth=15000}
+12-01 07:16:11.719  2262  2947 D NetworkController.MobileSignalController(3): onDataActivity: direction=3
+12-01 07:16:11.753  30266  30266 I DoubleTapBootReceiver: doubleTapExeccommand  mUpdateDoubleTap = pass
+12-01 07:16:11.754  30266  30266 I DoubleTapBootReceiver: Boost mode disabled
+12-01 07:16:11.789  2262  2947 D NetworkController.MobileSignalController(3): notifyListeners mConfig.alwaysShowNetworkTypeIcon=false  mDataNetType:13/LTE voiceNetType=13/LTE showDataIcon=true mConfig.alwaysShowDataRatIcon=false icons.mDataType=2131231204 mConfig.hideDisabledHDIcon=true mConfig.showVolteIcon=true isVolteSwitchOn=true mShowVolteIcon=true volteIcon=(null) mCurrentState.vowifiResitered=false mShowVowifiIcon=true vowifiIcon=(null) volteIcon=0 mConfig.showVowifiIcon=false
+12-01 07:16:11.807  30266  30266 I DoubleTapBootReceiver: doubleTapExeccommand  mUpdateDoubleTap = pass
+12-01 07:16:11.807  30266  30266 I DoubleTapBootReceiver: Boost mode disabled
+12-01 07:16:11.822  30781  30781 I dumpstate: do_zip_file: 1
+
+12-01 07:16:11.822  30781  30781 I dumpstate: do_add_date: 1
+
+12-01 07:16:11.822  30781  30781 I dumpstate: do_vibrate: 1
+
+12-01 07:16:11.822  30781  30781 I dumpstate: use_socket: 0
+
+12-01 07:16:11.822  30781  30781 I dumpstate: use_control_socket: 1
+
+12-01 07:16:11.822  30781  30781 I dumpstate: do_fb: 0
+
+12-01 07:16:11.822  30781  30781 I dumpstate: do_broadcast: 0
+
+12-01 07:16:11.822  30781  30781 I dumpstate: is_remote_mode: 0
+
+12-01 07:16:11.822  30781  30781 I dumpstate: show_header_only: 0
+
+12-01 07:16:11.822  30781  30781 I dumpstate: do_start_service: 0
+
+12-01 07:16:11.822  30781  30781 I dumpstate: telephony_only: 0
+
+12-01 07:16:11.822  30781  30781 I dumpstate: wifi_only: 0
+
+12-01 07:16:11.822  30781  30781 I dumpstate: do_progress_updates: 0
+
+12-01 07:16:11.822  30781  30781 I dumpstate: fd: -1
+
+12-01 07:16:11.822  30781  30781 I dumpstate: extra_options: BUGREPORT_DEFAULT
+
+12-01 07:16:11.822  30781  30781 I dumpstate: args: /system/bin/dumpstate -S -d -z -o /data/user_de/0/com.android.shell/files/bugreports/bugreport
+
+12-01 07:16:11.822  30781  30781 I dumpstate: notification_title: 
+
+12-01 07:16:11.822  30781  30781 I dumpstate: notification_description: 
+
+12-01 07:16:11.823  30781  30781 D dumpstate: Loading stats from /bugreports/dumpstate-stats.txt
+
+12-01 07:16:11.828  2585  6979 D PhoneInterfaceManager: [PhoneIntfMgr] getCellLocation: is active user
+12-01 07:16:11.831  30781  30781 I dumpstate: Average max progress: 8191 in 7 runs; estimated max: 8191
+
+12-01 07:16:11.833  30781  30781 I dumpstate: begin
+
+12-01 07:16:11.833  30781  30781 I dumpstate: dumpstate info: id=4, args='/system/bin/dumpstate -S -d -z -o /data/user_de/0/com.android.shell/files/bugreports/bugreport', extra_options= BUGREPORT_DEFAULT)
+
+12-01 07:16:11.833  30781  30781 I dumpstate: bugreport format version: 2.0
+
+12-01 07:16:11.833  30781  30781 D dumpstate: Opening control socket
+
+12-01 07:16:11.861  30266  30266 I DoubleTapBootReceiver: doubleTapExeccommand  mUpdateDoubleTap = pass
+12-01 07:16:11.862  30266  30266 I DoubleTapBootReceiver: Boost mode disabled
+12-01 07:16:11.902  30266  30266 I DoubleTapBootReceiver: doubleTapExeccommand  mUpdateDoubleTap = pass
+12-01 07:16:11.902  30266  30266 I DoubleTapBootReceiver: Boost mode disabled
+12-01 07:16:11.910  2585  6979 D PhoneInterfaceManager: [PhoneIntfMgr] getLine1NumberForDisplay returning null
+12-01 07:16:11.914  1243  1311 W DevicePolicyManager: Package com.gyokovsolutions.gnettracklite (uid=10173, pid=19700) cannot access Device IDs
+12-01 07:16:11.914  2585  6979 W TelephonyPermissions: reportAccessDeniedToReadIdentifiers:com.gyokovsolutions.gnettracklite:getSubscriberId:isPreinstalled=false:isPrivApp=false
+12-01 07:16:11.954  30266  30266 I DoubleTapBootReceiver: doubleTapExeccommand  mUpdateDoubleTap = pass
+12-01 07:16:11.955  30266  30266 I DoubleTapBootReceiver: Boost mode disabled
+12-01 07:16:11.994  737  737 I sensors-hal: flush:260, android.sensor.gravity/91
+12-01 07:16:11.994  737  737 I sensors-hal: flush:268, android.sensor.gravity/91 completed
+12-01 07:16:11.994  737  737 I sensors-hal: flush:260, android.sensor.linear_acceleration/101
+12-01 07:16:11.994  737  737 I sensors-hal: flush:268, android.sensor.linear_acceleration/101 completed
+12-01 07:16:11.995  737  737 I sensors-hal: flush:260, android.sensor.gyroscope_uncalibrated/161
+12-01 07:16:11.995  737  737 I sensors-hal: flush:268, android.sensor.gyroscope_uncalibrated/161 completed
+12-01 07:16:11.995  19681  23686 W igation.testap: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+12-01 07:16:11.999  19681  23694 W igation.testap: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+12-01 07:16:11.999  19681  23694 W igation.testap: Accessing hidden method Lsun/misc/Unsafe;->putLong(Ljava/lang/Object;JJ)V (greylist, linking, allowed)
+12-01 07:16:11.999  19681  23694 W igation.testap: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+12-01 07:16:11.999  19681  23694 W igation.testap: Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+12-01 07:16:11.999  19681  23694 W igation.testap: Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+12-01 07:16:12.019  30266  30266 I DoubleTapBootReceiver: doubleTapExeccommand  mUpdateDoubleTap = pass
+12-01 07:16:12.020  30266  30266 I DoubleTapBootReceiver: Boost mode disabled
+12-01 07:16:12.072  30266  30266 I DoubleTapBootReceiver: doubleTapExeccommand  mUpdateDoubleTap = pass
+12-01 07:16:12.072  30266  30266 I DoubleTapBootReceiver: Boost mode disabled
+12-01 07:16:12.122  30266  30266 I DoubleTapBootReceiver: doubleTapExeccommand  mUpdateDoubleTap = pass
+12-01 07:16:12.122  30266  30266 I DoubleTapBootReceiver: Boost mode disabled
+12-01 07:16:12.164  19681  20044 W igation.testap: Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+12-01 07:16:12.164  19681  20044 W igation.testap: Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+12-01 07:16:12.164  19681  20044 W igation.testap: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+12-01 07:16:12.164  19681  20044 W igation.testap: Accessing hidden method Lsun/misc/Unsafe;->putLong(Ljava/lang/Object;JJ)V (greylist, linking, allowed)
+12-01 07:16:12.164  19681  20044 W igation.testap: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+12-01 07:16:12.165  19681  20044 W igation.testap: Accessing hidden method Lsun/misc/Unsafe;->getLong(Ljava/lang/Object;J)J (greylist,core-platform-api, linking, allowed)
+12-01 07:16:12.166  19681  20044 W igation.testap: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+12-01 07:16:12.168  30266  30266 I DoubleTapBootReceiver: doubleTapExeccommand  mUpdateDoubleTap = pass
+12-01 07:16:12.168  30266  30266 I DoubleTapBootReceiver: Boost mode disabled
+12-01 07:16:12.222  19681  23694 W igation.testap: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+12-01 07:16:12.222  19681  23694 W igation.testap: Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+12-01 07:16:12.240  30266  30266 I DoubleTapBootReceiver: doubleTapExeccommand  mUpdateDoubleTap = pass
+12-01 07:16:12.241  30266  30266 I DoubleTapBootReceiver: Boost mode disabled
+12-01 07:16:12.247  2790  4588 I FusedLocation: location delivery to 10131/com.google.android.gms[.location_base]/635a969b blocked - too fast [CONTEXT service_id=6 ]
+
+12-01 07:16:12.248  2790  4588 I FusedLocation: location delivery to 10194/jp.co.cyberagent.stf/c9da0782 blocked - too fast [CONTEXT service_id=6 ]
+
+12-01 07:16:12.248  2790  4588 I FusedLocation: location delivery to 10131/com.google.android.gms[.location_base]/4237f68b blocked - too fast [CONTEXT service_id=6 ]
+
+12-01 07:16:12.248  2790  4588 I FusedLocation: location delivery to 10131/com.google.android.gms[.personalsafety]/ed20e3af blocked - too fast [CONTEXT service_id=6 ]
+
+12-01 07:16:12.248  2790  4588 I FusedLocation: location delivery to 10171/com.zihua.android.mytracks/69f52c0a blocked - too fast [CONTEXT service_id=6 ]
+
+12-01 07:16:12.249  2790  4588 I FusedLocation: location delivery to 10131/com.google.android.gms[.personalsafety]/462676cb blocked - too fast [CONTEXT service_id=6 ]
+
+12-01 07:16:12.251  19681  23694 W igation.testap: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+12-01 07:16:12.251  19681  23694 W igation.testap: Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+12-01 07:16:12.252  19681  23694 W igation.testap: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+12-01 07:16:12.253  19681  23694 W igation.testap: Accessing hidden method Lsun/misc/Unsafe;->getLong(Ljava/lang/Object;J)J (greylist,core-platform-api, linking, allowed)
+12-01 07:16:12.254  19681  23694 I native: I0000 00:00:1701414972.254590   23694 map-location-tracker.cc:414] MapLocationTracker called with 2 existing on-segment hypotheses, 0 existing off-segment hypotheses, 4 queued observations at time 63527798.
+
+12-01 07:16:12.260  19681  23694 I native: I0000 00:00:1701414972.260390   23694 map-location-tracker.cc:845] time_ms: 63527798 MapTrackingResult[lat/lng=17.5539588,78.4101638 speed=10.10 bearing=14.68 alti=nanm, on_road=1 in_startup_confusion=0 posn_acc=4.62 spd_acc=1.02 bear_acc=3.81 alti_acc=inf segment=Miyapur Rd:0xB4FC44B8886B07A:0x5:[17.5524951,78.4097799 182.9m 14°, r-900.4m]x14m->1/1#[σ 5.00m 3.8°] meters_on_segment=167.77 across: nan off_mode_probability=1.00 {level=unknown} [nmm loc] ]
+
+12-01 07:16:12.262  19681  23694 W igation.testap: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+12-01 07:16:12.262  19681  23694 W igation.testap: Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+12-01 07:16:12.268  19681  23870 W igation.testap: Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+12-01 07:16:12.269  19681  23870 I native: I0000 00:00:1701414972.269276   23870 guider.cc:320] [NAV][OnLocationChanged] : (38) (routes: *38=1, 172=0) 18098.9m (next: 203.894m) speed: 10.1017m/s
+
+12-01 07:16:12.270  19681  23870 W igation.testap: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+12-01 07:16:12.270  19681  23870 W igation.testap: Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+12-01 07:16:12.271  19681  23870 W igation.testap: Accessing hidden method Lsun/misc/Unsafe;->putLong(Ljava/lang/Object;JJ)V (greylist, linking, allowed)
+12-01 07:16:12.273  19681  23870 W igation.testap: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+12-01 07:16:12.275  19681  19883 W igation.testap: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+12-01 07:16:12.276  19681  19883 W igation.testap: Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
